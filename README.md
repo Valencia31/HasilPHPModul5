@@ -12,3 +12,7 @@ Index
 ![alt tetx](https://github.com/Valencia31/HasilPHPModul5/blob/master/index%201%20modul%205.JPG?raw=true)
 Pratikum
 ![alt text](https://github.com/Valencia31/HasilPHPModul5/blob/master/pratikum%20modul%205.JPG?raw=true)
+Pertanyaan
+Kode yang digunakan masih ada yang salah dikarenakan tidak ada fungsi pada latihan 4.
+Fungsi yang saya gunakan adalah Fungsi dengan Parameter,Fungsi dengan Return Value
+Fungsi Tanpa Parameter dan Return Value,Fungsi dengan Parameter default
